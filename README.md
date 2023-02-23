@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba del Módulo 2 del PrepCouse de Henry
+Tomás
+Este proyecto es una prueba sobre como clonar un repositorio en la nube en mi pc local
